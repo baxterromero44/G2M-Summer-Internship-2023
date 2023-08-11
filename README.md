@@ -6,4 +6,4 @@ In order to fully understand how to create good machine learning models. I first
 Once I had a basis and good understanding of how the models and their outputs worked for propensity. I started figuring out how to digest the results of my data in order to provide valueable insights from them.
 
 After this project I hopped on client work for the company and built dyanmic data cleaning scripts to make it easier to upload CSVs into Snowflake DBs.
-**All code provided in these files is my own however they will not run as I am unable to upload the datasets or csv files I used because it would violate G2Ms Data Security Policies**
+**All code provided in these files is my own however they will not run as I am unable to upload the datasets or csv files I used because it would violate the G2M Insights Data Security Policies**
